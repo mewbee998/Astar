@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "white.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "white.tmx": {
+            "scale": 0.6293749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.25322740814306,
+                "y": 381.330685203575
+            }
+        },
+        "新白块.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "新绿块.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "白块.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "绿块.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/ALL/cocosProject/Test01/assets/tiled",
+    "last.imagePath": "D:/ALL/cocosProject/Test01/assets/tiled",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "white.tmx"
+    ],
+    "project": "whiteFull.tiled-project",
+    "recentFiles": [
+        "white.tmx",
+        "新白块.tsx",
+        "新绿块.tsx",
+        "白块.tsx",
+        "绿块.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled 图块集文件 (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 2,
+    "tileset.tileSize": {
+        "height": 30,
+        "width": 30
+    }
+}
